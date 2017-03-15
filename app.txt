@@ -1,0 +1,15 @@
+ {
+  "pkname":"com.bmh.one",
+  "appname":"appname",
+  "urls":[
+    {
+     "channel":"yingyongbao",
+      "url":"http://domain.web.url"
+    },
+    {
+     "channel":"wandoujia",
+      "url":"http://domain.web.url"
+    }
+   ]
+ }
+]
