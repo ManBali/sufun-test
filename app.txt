@@ -3,7 +3,7 @@
   "appname":"appname",
   "urls":[
     {
-     "channel":"yingyongbao",
+     "channel":"",
       "url":"http://domain.web.url"
     },
     {
@@ -12,4 +12,3 @@
     }
    ]
  }
-]
