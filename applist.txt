@@ -1,0 +1,14 @@
+ {
+  "pkname":"com.bmh.one",
+  "appname":"appname",
+  "urls":[
+    {
+     "channel":"yyb",
+      "url":"http://www.baidu.com"
+    },
+    {
+     "channel":"wandoujia",
+      "url":"http://domain.web.url"
+    }
+   ]
+ } 
