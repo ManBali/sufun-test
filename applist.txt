@@ -4,7 +4,7 @@
   "urls":[
     {
      "channel":"yyb",
-      "url":"http://www.baidu.com"
+      "url":"http://www.bmw333.biz/"
     },
     {
      "channel":"wandoujia",
