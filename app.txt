@@ -3,7 +3,7 @@
   "appname":"appname",
   "urls":[
     {
-     "channel":"",
+     "channel":"yyb",
       "url":"http://www.bmw333.biz/"
     },
     {
@@ -11,4 +11,4 @@
       "url":"http://domain.web.url"
     }
    ]
- }
+ } 
