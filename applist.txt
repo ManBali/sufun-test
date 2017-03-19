@@ -8,7 +8,7 @@
     },
     {
      "channel":"wandoujia",
-      "url":"http://domain.web.url"
+      "url":"http://domain.web.url.test"
     }
    ]
  } 
